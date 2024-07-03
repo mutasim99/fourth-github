@@ -7,9 +7,10 @@ h1{
     border: 5px solid coral;
 }
 .y{
-    background-color: rgba(216, 112, 147, 0.598);
+    
     border: 10px solid salmon;
     padding: 10px;
-    border-image-source: url('download.png');
-    border-image-slice: 15%;
+    border-image-source: url('new.png');
+    border-image-slice: 200;
+    border-image-repeat: stretch repeat;
 }
