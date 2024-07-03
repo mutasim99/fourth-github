@@ -10,4 +10,6 @@ h1{
     background-color: rgba(216, 112, 147, 0.598);
     border: 10px solid salmon;
     padding: 10px;
+    border-image-source: url('download.png');
+    border-image-slice: 15%;
 }
