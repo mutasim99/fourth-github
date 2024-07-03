@@ -13,4 +13,9 @@ h1{
     border-image-source: url('new.png');
     border-image-slice: 200;
     border-image-repeat:  repeat;
+    width: 400px;
+    height: 100%;
+    background-color: rgba(152, 251, 152, 0.626);
+    border-radius: 50px 15%;
+    background-position: 50%;
 }
