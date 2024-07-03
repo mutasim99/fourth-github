@@ -8,9 +8,9 @@ h1{
 }
 .y{
     
-    border: 10px solid salmon;
+    border: 30px solid salmon;
     padding: 10px;
     border-image-source: url('new.png');
     border-image-slice: 200;
-    border-image-repeat: stretch repeat;
+    border-image-repeat:  repeat;
 }
